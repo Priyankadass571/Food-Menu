@@ -1,0 +1,62 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.header{
+    background-color: black;
+    color: white;
+    padding:20px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.burger{
+    padding:3px;
+    margin: 2px;
+    text-align:left;
+    border : solid black 2px;
+}
+.burger__one{
+    background-color: black;
+    color: white;
+}
+
+.Noodles{
+    padding:3px;
+    margin: 2px;
+    text-align:left;
+}
+.Noodles__one{
+    background-color: black;
+    color: white;
+}
+.Pasta{
+    padding:3px;
+    margin: 2px;
+    text-align:left;
+}
+.Pasta__one{
+    background-color: black;
+    color: white;
+}
+.Kunafa{
+    padding:3px;
+    margin: 2px;
+    text-align:left;
+}
+.Kunafa__one{
+    background-color: black;
+    color: white;
+}
+.contact{
+    background-color: black;
+    color: white;
+    padding:20px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.contact__one{
+    background-color: yellow;
+    color: black;
+}
